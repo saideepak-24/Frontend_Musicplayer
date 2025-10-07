@@ -4,7 +4,7 @@ Play, Pause, Stop
 
 Next and Previous track navigation.
 
-![image_Alt](Core Player Controls: Full functionality for media playback, including:)
+![image_Alt](https://github.com/saideepak-24/Frontend_Musicplayer/blob/adb543e6b5b7fd0e3a289257c27f820480d6d7c6/Screenshot%202025-10-07%20112142.png)
 
 Play, Pause, Stop
 
@@ -24,3 +24,4 @@ Volume Control: Implement a slider for adjusting the playback volume.
 Dynamic Track Information: Display the current song title, artist, and album art that changes automatically with each track.
 
 Time Display: Shows the current playback time and the total duration of the track.
+
